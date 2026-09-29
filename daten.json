@@ -1,0 +1,145 @@
+{
+  "firma": "Saatzucht Josef Breun",
+  "stelle": "Agrarwirtschaftlicher Technischer Assistent (m/w/d)",
+  "ort": "Bovenden",
+  "plz": "37120",
+  "region_badge": "Bovenden & Quedlinburg",
+  "farbe_primary": "#6F4539",
+  "farbe_secondary": "#BCB195",
+  "benefit_top": "Urlaubs- & Weihnachtsgeld",
+  "stellen_frage": "An welchem Standort möchtest du arbeiten?",
+  "stellen": [
+    {
+      "label": "Agrarwirtschaftlicher Technischer Assistent (m/w/d) – Bovenden",
+      "sub": "Zuchtstation Lenglern bei Göttingen · Voll- oder Teilzeit",
+      "icon": "🌾"
+    },
+    {
+      "label": "Agrarwirtschaftlicher Technischer Assistent (m/w/d) – Quedlinburg",
+      "sub": "Versuchsstandort Morgenrot bei Quedlinburg · Teilzeit",
+      "icon": "🚜"
+    }
+  ],
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Urlaubsgeld und Weihnachtsgeld",
+    "Vermögenswirksame Leistungen",
+    "Jobrad-Leasing",
+    "Firmenhandy",
+    "Kostenübernahme für berufliche Zertifizierungen",
+    "Flache Hierarchien und freundliches Arbeitsklima",
+    "Getränke-Flatrate"
+  ],
+  "aufgaben": [
+    "Feldversuche anlegen, pflegen und betreuen",
+    "Aussaat, Ernte und Aufbereitung des Versuchsmaterials",
+    "Landmaschinen und Versuchstechnik bedienen",
+    "Pflanzenbestände kontrollieren, Bonituren durchführen und Versuchsdaten erfassen"
+  ],
+  "anforderung": "Freude an der Arbeit mit Pflanzen, praktisch zupacken, Führerschein Klasse B und gute Deutschkenntnisse. In Bovenden sind auch Quereinsteiger willkommen – in Quedlinburg ist eine pflanzenbauliche Ausbildung gefragt (z. B. Landwirt/in, Agrartechnische/r Assistent/in, Pflanzentechnologe/in).",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Landwirtschaft",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildete/r Landwirt/in",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Agrartechnik / Pflanzentechnologie",
+      "icon": "🔬",
+      "qualifikationen": [
+        {
+          "label": "Agrartechn. Assistent/in oder Pflanzentechnologe/in",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Gartenbau / Pflanzenbau",
+      "icon": "🌱",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildete/r Gärtner/in",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in anderem Beruf",
+          "icon": "🎓"
+        },
+        {
+          "label": "Quereinsteiger mit Interesse an Pflanzen",
+          "icon": "🌾"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "48",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "1906",
+        "label": "gegründet"
+      }
+    ],
+    "text": "Die Saatzucht Josef Breun ist ein traditionsreiches Familienunternehmen aus Herzogenaurach. Seit 1906 züchtet sie Getreidesorten – Sommergerste, Wintergerste, Dinkel und Winterweizen – und verbindet dabei klassische Züchtung mit modernen Technologien. Die Versuchsstandorte liegen in Lenglern bei Göttingen und in Morgenrot bei Quedlinburg."
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/foto-01-parzellenernte.jpg",
+    "img/foto-02-feldarbeit-collage.jpg",
+    "img/foto-03-maschinen-lenglern.jpg",
+    "img/foto-04-versuchsfeld-morgenrot.jpg",
+    "img/foto-05-kreuzung.jpg",
+    "img/foto-06-saemaschine-scheune.jpg",
+    "img/foto-07-zuchtgarten.jpg",
+    "img/foto-08-standort-morgenrot.jpg",
+    "img/foto-09-aehren.jpg",
+    "img/foto-10-arbeitsraum-lenglern.jpg"
+  ],
+  "kunde_tab": "15 Saatzucht Josef Breun",
+  "quelle": "https://saatzucht-breun.green-careers.de",
+  "branche": "landwirtschaft",
+  "logo": "logo.png",
+  "meta_geo": [
+    "37120 Bovenden",
+    "06484 Quedlinburg"
+  ]
+}
